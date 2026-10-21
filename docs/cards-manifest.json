@@ -1,0 +1,791 @@
+[
+  {
+    "id": "major.fool",
+    "name": "Шут",
+    "image": "/cards/0.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-0.jpg",
+    "bytes": 138267,
+    "width": 590,
+    "height": 1000,
+    "sha256": "434b8538dfc174d8c9088f9f5b25a3b5d722ae8f96834e2ff270ace1ae36ec73"
+  },
+  {
+    "id": "major.magician",
+    "name": "Маг",
+    "image": "/cards/1.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-1.jpg",
+    "bytes": 176999,
+    "width": 594,
+    "height": 971,
+    "sha256": "a29823c4e349bbc5d6d871b33014a8166e5821722f52995c80957313e527ef99"
+  },
+  {
+    "id": "major.high_priestess",
+    "name": "Верховная Жрица",
+    "image": "/cards/2.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-2.jpg",
+    "bytes": 158603,
+    "width": 594,
+    "height": 971,
+    "sha256": "a5d185d76832f3609980582cb9959c15f30b492440e2599ed2efbbab8412c30d"
+  },
+  {
+    "id": "major.empress",
+    "name": "Императрица",
+    "image": "/cards/3.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-3.jpg",
+    "bytes": 179472,
+    "width": 594,
+    "height": 971,
+    "sha256": "e36e73490afac6492f28b47231e050aab09dec124794d2cf9112d6c06a67edbd"
+  },
+  {
+    "id": "major.emperor",
+    "name": "Император",
+    "image": "/cards/4.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-4.jpg",
+    "bytes": 159745,
+    "width": 594,
+    "height": 971,
+    "sha256": "c0a3430c3e5cbde6f3979ef95a522ba071fa44d4355bf7925c86bb05041db3bf"
+  },
+  {
+    "id": "major.hierophant",
+    "name": "Иерофант",
+    "image": "/cards/5.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-5.jpg",
+    "bytes": 168633,
+    "width": 594,
+    "height": 971,
+    "sha256": "32d7b1612afd7e5ad821b3fa768b1849aff4444a8eb5e0eb79380576cd334694"
+  },
+  {
+    "id": "major.lovers",
+    "name": "Влюблённые",
+    "image": "/cards/6.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-6.jpg",
+    "bytes": 174332,
+    "width": 594,
+    "height": 971,
+    "sha256": "14e4ec8f8457728798b930c646bcac7405a91af717d0a0e5d43b24b3d1f29c4b"
+  },
+  {
+    "id": "major.chariot",
+    "name": "Колесница",
+    "image": "/cards/7.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-7.jpg",
+    "bytes": 167217,
+    "width": 594,
+    "height": 971,
+    "sha256": "12fd0c40330e5dbe82a70472ce957284d883989f2754f31ddb42daf6188261e3"
+  },
+  {
+    "id": "major.strength",
+    "name": "Сила",
+    "image": "/cards/8.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-8.jpg",
+    "bytes": 158607,
+    "width": 594,
+    "height": 971,
+    "sha256": "40cccda62db69023e6eb2fc87dbabbbb8b3e5c1c0a7fdc03db4e0f39873d7a8c"
+  },
+  {
+    "id": "major.hermit",
+    "name": "Отшельник",
+    "image": "/cards/9.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-9.jpg",
+    "bytes": 179882,
+    "width": 594,
+    "height": 971,
+    "sha256": "237a95997988ccabb374e7a2338ee65cb19c79ff578133da5b1f6205c59514f9"
+  },
+  {
+    "id": "major.wheel_of_fortune",
+    "name": "Колесо Фортуны",
+    "image": "/cards/10.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-10.jpg",
+    "bytes": 177261,
+    "width": 594,
+    "height": 971,
+    "sha256": "374dfbe27e027af2f922b290af0954c14b8ef5d3faa2357790153459a8829489"
+  },
+  {
+    "id": "major.justice",
+    "name": "Справедливость",
+    "image": "/cards/11.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-11.jpg",
+    "bytes": 196515,
+    "width": 594,
+    "height": 971,
+    "sha256": "459729f379f721deaf371b0ca36df7b0a47cb977b09c7977b965ea29f24fb24c"
+  },
+  {
+    "id": "major.hanged_man",
+    "name": "Повешенный",
+    "image": "/cards/12.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-12.jpg",
+    "bytes": 185406,
+    "width": 594,
+    "height": 971,
+    "sha256": "bd29e47d660f01d8946298750bc0bcf94dd66ffdd1b30067256be712cdc7e7b7"
+  },
+  {
+    "id": "major.death",
+    "name": "Смерть",
+    "image": "/cards/13.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-13.jpg",
+    "bytes": 185921,
+    "width": 594,
+    "height": 971,
+    "sha256": "7836e2951677156ee404e54bf34a939c70f60f4c43f446dd7efa7a693ae77c5b"
+  },
+  {
+    "id": "major.temperance",
+    "name": "Умеренность",
+    "image": "/cards/14.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-14.jpg",
+    "bytes": 171790,
+    "width": 594,
+    "height": 971,
+    "sha256": "4c76207d705aecb4ca3bfe7cec70dbec4de61597403c626b5d55dc26c46f1d5a"
+  },
+  {
+    "id": "major.devil",
+    "name": "Дьявол",
+    "image": "/cards/15.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-15.jpg",
+    "bytes": 174509,
+    "width": 594,
+    "height": 971,
+    "sha256": "d05734f58fd9b931bc811a566b35cca7338b1357e500ae5a46c6a9a623e8d626"
+  },
+  {
+    "id": "major.tower",
+    "name": "Башня",
+    "image": "/cards/16.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-16.jpg",
+    "bytes": 175453,
+    "width": 594,
+    "height": 971,
+    "sha256": "17446316abed9df55b0e98c0cc60ea01160375142a0fa09e32178e6840547b2f"
+  },
+  {
+    "id": "major.star",
+    "name": "Звезда",
+    "image": "/cards/17.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-17.jpg",
+    "bytes": 167356,
+    "width": 594,
+    "height": 971,
+    "sha256": "c8397b6f3aa3f99cb8001bd0b06f3a88c30cb708838f79d3e8e06ab979792990"
+  },
+  {
+    "id": "major.moon",
+    "name": "Луна",
+    "image": "/cards/18.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-18.jpg",
+    "bytes": 177806,
+    "width": 594,
+    "height": 971,
+    "sha256": "fef4e3aaa8899094919c75164cbe8b266ada819a6561568c952c2e4275650a37"
+  },
+  {
+    "id": "major.sun",
+    "name": "Солнце",
+    "image": "/cards/19.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-19.jpg",
+    "bytes": 168098,
+    "width": 594,
+    "height": 971,
+    "sha256": "052a08d3c2593391536dedbbbfd863b14788fa9791a71330ece97c14f6c99085"
+  },
+  {
+    "id": "major.judgement",
+    "name": "Суд",
+    "image": "/cards/20.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-20.jpg",
+    "bytes": 176981,
+    "width": 594,
+    "height": 971,
+    "sha256": "ccb25b7faa3bdc992bbc40de19dc30b2ed225a4a667830e1d6b492109eb6378b"
+  },
+  {
+    "id": "major.world",
+    "name": "Мир",
+    "image": "/cards/21.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-21.jpg",
+    "bytes": 198858,
+    "width": 594,
+    "height": 971,
+    "sha256": "58e47e4b28eefc9629f361dd6486ed08bbd31c499f92cd758c70db30534aba89"
+  },
+  {
+    "id": "minor.wands.ace",
+    "name": "Туз Жезлов",
+    "image": "/cards/36.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-36.jpg",
+    "bytes": 186073,
+    "width": 594,
+    "height": 971,
+    "sha256": "fac27b210c1a875b1924f3f3b1357ad7af1e7f00275e04090a01fa2ae2aa54c2"
+  },
+  {
+    "id": "minor.wands.two",
+    "name": "Двойка Жезлов",
+    "image": "/cards/37.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-37.jpg",
+    "bytes": 175531,
+    "width": 594,
+    "height": 971,
+    "sha256": "a42ce87023643bd97bd5e7e7bf41fec4468309ff9e5f05c273dc360781792e7f"
+  },
+  {
+    "id": "minor.wands.three",
+    "name": "Тройка Жезлов",
+    "image": "/cards/38.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-38.jpg",
+    "bytes": 168463,
+    "width": 594,
+    "height": 971,
+    "sha256": "3d2188ad5ec7c17ea6cf7cd7e5e179317d1c6cdb608264c45ed1d6b49ab784cc"
+  },
+  {
+    "id": "minor.wands.four",
+    "name": "Четвёрка Жезлов",
+    "image": "/cards/39.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-39.jpg",
+    "bytes": 164490,
+    "width": 594,
+    "height": 971,
+    "sha256": "5ecca740bae9fd3a98fb18344d273bd30f95581d9643142b14a7951c4350b106"
+  },
+  {
+    "id": "minor.wands.five",
+    "name": "Пятёрка Жезлов",
+    "image": "/cards/40.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-40.jpg",
+    "bytes": 167570,
+    "width": 594,
+    "height": 971,
+    "sha256": "13b7a5e4c2bc3bf169d9ced5a1799448791d0bf5210831d2eb2705574bbb54b8"
+  },
+  {
+    "id": "minor.wands.six",
+    "name": "Шестёрка Жезлов",
+    "image": "/cards/41.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-41.jpg",
+    "bytes": 184755,
+    "width": 594,
+    "height": 971,
+    "sha256": "d92c2625564aa4b667a4e0bb38fd3a34f399963b2d5aff1ea067dd9cbcae2c39"
+  },
+  {
+    "id": "minor.wands.seven",
+    "name": "Семёрка Жезлов",
+    "image": "/cards/42.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-42.jpg",
+    "bytes": 167414,
+    "width": 594,
+    "height": 971,
+    "sha256": "2b53a75bcfdd3de01dff15f0ea74e05fdd6767711b211427b553c23012da93e0"
+  },
+  {
+    "id": "minor.wands.eight",
+    "name": "Восьмёрка Жезлов",
+    "image": "/cards/43.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-43.jpg",
+    "bytes": 177761,
+    "width": 594,
+    "height": 971,
+    "sha256": "4c548eafa2e0dd2775ad0f38c507ec28c67fe7c4429cd58ccf1f21186bde5615"
+  },
+  {
+    "id": "minor.wands.nine",
+    "name": "Девятка Жезлов",
+    "image": "/cards/44.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-44.jpg",
+    "bytes": 184013,
+    "width": 594,
+    "height": 971,
+    "sha256": "2421906a25e0ab81f00682cb6688b05977d451bdc8a6085de6f99510074e3abd"
+  },
+  {
+    "id": "minor.wands.ten",
+    "name": "Десятка Жезлов",
+    "image": "/cards/45.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-45.jpg",
+    "bytes": 150756,
+    "width": 594,
+    "height": 971,
+    "sha256": "cfbbd7a70a012ec0b8d9746478f6afc3ce5059569a8906853129ea8d821a9691"
+  },
+  {
+    "id": "minor.wands.page",
+    "name": "Паж Жезлов",
+    "image": "/cards/46.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-46.jpg",
+    "bytes": 192754,
+    "width": 594,
+    "height": 971,
+    "sha256": "72df67399a1969e27cfff8f3307ee0841a4c3bb971a8889feebea12cf847d21a"
+  },
+  {
+    "id": "minor.wands.knight",
+    "name": "Рыцарь Жезлов",
+    "image": "/cards/47.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-47.jpg",
+    "bytes": 175534,
+    "width": 594,
+    "height": 971,
+    "sha256": "eb458c04bace3fdd5e7e27db3fea73dfdc16864ac6aab32401614de7a10e63ba"
+  },
+  {
+    "id": "minor.wands.queen",
+    "name": "Королева Жезлов",
+    "image": "/cards/48.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-48.jpg",
+    "bytes": 157508,
+    "width": 594,
+    "height": 971,
+    "sha256": "436567edea2266c5629ca3b702b69b74acc8106921beca8461a8b84e62d29b6a"
+  },
+  {
+    "id": "minor.wands.king",
+    "name": "Король Жезлов",
+    "image": "/cards/49.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-49.jpg",
+    "bytes": 182822,
+    "width": 594,
+    "height": 971,
+    "sha256": "c380fb746a2ea8503b6732013050b19df94b01be0d777946cc30bd14cee9c2d5"
+  },
+  {
+    "id": "minor.cups.ace",
+    "name": "Туз Кубков",
+    "image": "/cards/22.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-22.jpg",
+    "bytes": 171086,
+    "width": 594,
+    "height": 971,
+    "sha256": "1b78723eba828f73f6bf5e407c8bb6659e2a3be3df38b2ae48b0fde5a47ba8b1"
+  },
+  {
+    "id": "minor.cups.two",
+    "name": "Двойка Кубков",
+    "image": "/cards/23.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-23.jpg",
+    "bytes": 164767,
+    "width": 594,
+    "height": 971,
+    "sha256": "0e13a6801141945e109b5c0703ea7ff05f34085865a70ac09c7e2ad78b700af4"
+  },
+  {
+    "id": "minor.cups.three",
+    "name": "Тройка Кубков",
+    "image": "/cards/24.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-24.jpg",
+    "bytes": 177244,
+    "width": 594,
+    "height": 971,
+    "sha256": "16866cf01b408aa40aec5f2551f20a0b8cf471050f125d1fff21bd0194fdf63e"
+  },
+  {
+    "id": "minor.cups.four",
+    "name": "Четвёрка Кубков",
+    "image": "/cards/25.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-25.jpg",
+    "bytes": 181402,
+    "width": 594,
+    "height": 971,
+    "sha256": "cf0f947de0cd836581d85a4e9c706ac5a13bf8a1a4e4a266e30bd8e222a97277"
+  },
+  {
+    "id": "minor.cups.five",
+    "name": "Пятёрка Кубков",
+    "image": "/cards/26.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-26.jpg",
+    "bytes": 162144,
+    "width": 594,
+    "height": 971,
+    "sha256": "27dcd0c7d77aa1ab0c6b680a6c54780fcda0ee3545414cf5e583822b4dbc1e21"
+  },
+  {
+    "id": "minor.cups.six",
+    "name": "Шестёрка Кубков",
+    "image": "/cards/27.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-27.jpg",
+    "bytes": 181022,
+    "width": 594,
+    "height": 971,
+    "sha256": "355a8903b62778880b0de0b832e59a68f962310889fc09326c691570bb09d848"
+  },
+  {
+    "id": "minor.cups.seven",
+    "name": "Семёрка Кубков",
+    "image": "/cards/28.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-28.jpg",
+    "bytes": 175459,
+    "width": 594,
+    "height": 971,
+    "sha256": "12216ea331e5c674ff3eec17586a7712a3b316db63ddb3f5ded2ea5e493c056a"
+  },
+  {
+    "id": "minor.cups.eight",
+    "name": "Восьмёрка Кубков",
+    "image": "/cards/29.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-29.jpg",
+    "bytes": 177181,
+    "width": 594,
+    "height": 971,
+    "sha256": "ef8ea597fc93da7ad56a579a9396bd6f6b7187411d916d09a48a4a9ab9f13fd5"
+  },
+  {
+    "id": "minor.cups.nine",
+    "name": "Девятка Кубков",
+    "image": "/cards/30.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-30.jpg",
+    "bytes": 162154,
+    "width": 594,
+    "height": 971,
+    "sha256": "2a7997d4c0b359e4b7cf3a08a463525c76e58d171a2f1c8c6e695e384abb2bb3"
+  },
+  {
+    "id": "minor.cups.ten",
+    "name": "Десятка Кубков",
+    "image": "/cards/31.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-31.jpg",
+    "bytes": 189836,
+    "width": 594,
+    "height": 971,
+    "sha256": "3c3f8cbb46d6d345b7bd05a0ee19928a7d8b55816970a939247932d0c8ef5aa7"
+  },
+  {
+    "id": "minor.cups.page",
+    "name": "Паж Кубков",
+    "image": "/cards/32.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-32.jpg",
+    "bytes": 161578,
+    "width": 594,
+    "height": 971,
+    "sha256": "b7cb8c9275635c9db67c64e577dc883f73764caed45e5188652545f246bfd524"
+  },
+  {
+    "id": "minor.cups.knight",
+    "name": "Рыцарь Кубков",
+    "image": "/cards/33.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-33.jpg",
+    "bytes": 175084,
+    "width": 594,
+    "height": 971,
+    "sha256": "3108f695ceb183da4451195bd271cabeccffda8c972fa02dcd695a19d7f33c78"
+  },
+  {
+    "id": "minor.cups.queen",
+    "name": "Королева Кубков",
+    "image": "/cards/34.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-34.jpg",
+    "bytes": 164246,
+    "width": 594,
+    "height": 971,
+    "sha256": "f21b6bd1c4566f9983995ae488a26dcebcc25a1d0e98f743314272a81ca6e204"
+  },
+  {
+    "id": "minor.cups.king",
+    "name": "Король Кубков",
+    "image": "/cards/35.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-35.jpg",
+    "bytes": 160135,
+    "width": 594,
+    "height": 971,
+    "sha256": "0788f9bbc560ceb611154499c17cc9804dd6e7294998faf9a13152b6a2c9ceef"
+  },
+  {
+    "id": "minor.swords.ace",
+    "name": "Туз Мечей",
+    "image": "/cards/50.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-50.jpg",
+    "bytes": 158857,
+    "width": 594,
+    "height": 971,
+    "sha256": "015c6b8a5f6e2d08c2ba6f4a676d4aad8063e74c77115cbe23c9dc7dc792cdbf"
+  },
+  {
+    "id": "minor.swords.two",
+    "name": "Двойка Мечей",
+    "image": "/cards/51.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-51.jpg",
+    "bytes": 150163,
+    "width": 594,
+    "height": 971,
+    "sha256": "6ce18a1bb416078cb77fc33ceda567142e208fd9f727c139b238342d44ae3bf2"
+  },
+  {
+    "id": "minor.swords.three",
+    "name": "Тройка Мечей",
+    "image": "/cards/52.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-52.jpg",
+    "bytes": 158802,
+    "width": 594,
+    "height": 971,
+    "sha256": "d123faf118a7015a234346138230bf9f061957e89ef0f4b9d1a6f3ecdf1cb015"
+  },
+  {
+    "id": "minor.swords.four",
+    "name": "Четвёрка Мечей",
+    "image": "/cards/53.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-53.jpg",
+    "bytes": 184052,
+    "width": 594,
+    "height": 971,
+    "sha256": "25de59698a3720c9b07994900ef30789e793101ac14bef94e1cad76ae5eca3b2"
+  },
+  {
+    "id": "minor.swords.five",
+    "name": "Пятёрка Мечей",
+    "image": "/cards/54.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-54.jpg",
+    "bytes": 166475,
+    "width": 594,
+    "height": 971,
+    "sha256": "31c85b10ce9e116161f1236f7734243f83965b2b8580600e32e9274fcdd4cf34"
+  },
+  {
+    "id": "minor.swords.six",
+    "name": "Шестёрка Мечей",
+    "image": "/cards/55.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-55.jpg",
+    "bytes": 201077,
+    "width": 594,
+    "height": 971,
+    "sha256": "24e4ea3e1330cb57f62144e41dab21f76922e7591a64e724371247d4c5eaf85e"
+  },
+  {
+    "id": "minor.swords.seven",
+    "name": "Семёрка Мечей",
+    "image": "/cards/56.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-56.jpg",
+    "bytes": 167598,
+    "width": 594,
+    "height": 971,
+    "sha256": "1dc7366669784d71e93b7c61c85af5d14e91cbb4c69c047c81ad19c2e2766863"
+  },
+  {
+    "id": "minor.swords.eight",
+    "name": "Восьмёрка Мечей",
+    "image": "/cards/57.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-57.jpg",
+    "bytes": 183320,
+    "width": 594,
+    "height": 971,
+    "sha256": "cdad470ebec6e360cb7274cb47fe218003e2b2a44047b11e7204beeedfd92cd3"
+  },
+  {
+    "id": "minor.swords.nine",
+    "name": "Девятка Мечей",
+    "image": "/cards/58.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-58.jpg",
+    "bytes": 183292,
+    "width": 594,
+    "height": 971,
+    "sha256": "5ea5fb5fc7600e8500f2b447033e4f7dc259a3d1413c6e57490636a4b1bf84dc"
+  },
+  {
+    "id": "minor.swords.ten",
+    "name": "Десятка Мечей",
+    "image": "/cards/59.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-59.jpg",
+    "bytes": 178674,
+    "width": 594,
+    "height": 971,
+    "sha256": "fe319600ffa140ae69bc7819823d23151cb70b004a9daa5c15382781625d9df1"
+  },
+  {
+    "id": "minor.swords.page",
+    "name": "Паж Мечей",
+    "image": "/cards/60.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-60.jpg",
+    "bytes": 184019,
+    "width": 594,
+    "height": 971,
+    "sha256": "07122321d11401201763c067665d203feb770314443051c838e4fed5c967ed1e"
+  },
+  {
+    "id": "minor.swords.knight",
+    "name": "Рыцарь Мечей",
+    "image": "/cards/61.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-61.jpg",
+    "bytes": 173457,
+    "width": 594,
+    "height": 971,
+    "sha256": "b4c4c816bc154a66cc24adb405ee4133cb670c883b94a79602013e12d322ef7d"
+  },
+  {
+    "id": "minor.swords.queen",
+    "name": "Королева Мечей",
+    "image": "/cards/62.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-62.jpg",
+    "bytes": 182787,
+    "width": 594,
+    "height": 971,
+    "sha256": "6b87814ea6c0bf988a343d7d62d8fd21abbbc915828d841dc9f0379c0e2a3b9f"
+  },
+  {
+    "id": "minor.swords.king",
+    "name": "Король Мечей",
+    "image": "/cards/63.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-63.jpg",
+    "bytes": 166917,
+    "width": 594,
+    "height": 971,
+    "sha256": "40cbdec90a119c56f741635f235d31651a0b520f608d487d3805138a7e02a6e6"
+  },
+  {
+    "id": "minor.pentacles.ace",
+    "name": "Туз Пентаклей",
+    "image": "/cards/64.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-64.jpg",
+    "bytes": 160829,
+    "width": 594,
+    "height": 971,
+    "sha256": "9bd6a841e3d29940122aabe5fbb4eb55ab3a127f5e6c642e6af35075e75c6c50"
+  },
+  {
+    "id": "minor.pentacles.two",
+    "name": "Двойка Пентаклей",
+    "image": "/cards/65.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-65.jpg",
+    "bytes": 160440,
+    "width": 594,
+    "height": 971,
+    "sha256": "c330901d7e207ca7acc6666bd0d099798fa2190221a34d572873be1505a1e245"
+  },
+  {
+    "id": "minor.pentacles.three",
+    "name": "Тройка Пентаклей",
+    "image": "/cards/66.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-66.jpg",
+    "bytes": 198605,
+    "width": 594,
+    "height": 971,
+    "sha256": "d72171a3f7cf2e3b2f3a20bf46e3034aca7bb6961095650cd6d14fd68ece4a2e"
+  },
+  {
+    "id": "minor.pentacles.four",
+    "name": "Четвёрка Пентаклей",
+    "image": "/cards/67.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-67.jpg",
+    "bytes": 158508,
+    "width": 594,
+    "height": 971,
+    "sha256": "0671971eccea99019862b357a869cad2c21374b9c3699d1328ac14115ecc9683"
+  },
+  {
+    "id": "minor.pentacles.five",
+    "name": "Пятёрка Пентаклей",
+    "image": "/cards/68.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-68.jpg",
+    "bytes": 170891,
+    "width": 594,
+    "height": 971,
+    "sha256": "51b54eb940a7240b07c60ea1e9ff382fb2264b86774c4bdff9ea5547bd3f134c"
+  },
+  {
+    "id": "minor.pentacles.six",
+    "name": "Шестёрка Пентаклей",
+    "image": "/cards/69.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-69.jpg",
+    "bytes": 162711,
+    "width": 594,
+    "height": 971,
+    "sha256": "42a764acbb46f065bcd2cec9d3fbdbfa101c100711d253b980e683635cd1c83d"
+  },
+  {
+    "id": "minor.pentacles.seven",
+    "name": "Семёрка Пентаклей",
+    "image": "/cards/70.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-70.jpg",
+    "bytes": 177476,
+    "width": 594,
+    "height": 971,
+    "sha256": "87c0d132894bba2f10a7187eb3bcde68dd82e5577d1ec2e4d50121c1562a1a00"
+  },
+  {
+    "id": "minor.pentacles.eight",
+    "name": "Восьмёрка Пентаклей",
+    "image": "/cards/71.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-71.jpg",
+    "bytes": 158801,
+    "width": 594,
+    "height": 971,
+    "sha256": "856c8fda9f523a2f279dc0686f043c68dfc2c75b520cafa8962861564cfba924"
+  },
+  {
+    "id": "minor.pentacles.nine",
+    "name": "Девятка Пентаклей",
+    "image": "/cards/72.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-72.jpg",
+    "bytes": 188579,
+    "width": 594,
+    "height": 971,
+    "sha256": "0bcfe46f72120dc87cae01a288d78b4188c691e1056a3b82ea5e30092b4375b1"
+  },
+  {
+    "id": "minor.pentacles.ten",
+    "name": "Десятка Пентаклей",
+    "image": "/cards/73.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-73.jpg",
+    "bytes": 201315,
+    "width": 594,
+    "height": 971,
+    "sha256": "b3c0307c1c24ee85f84e364077dc4607bed982502deb7fc094c765d8e6b172ee"
+  },
+  {
+    "id": "minor.pentacles.page",
+    "name": "Паж Пентаклей",
+    "image": "/cards/74.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-74.jpg",
+    "bytes": 192183,
+    "width": 594,
+    "height": 971,
+    "sha256": "02b6ded90bd7b1f38cc3cd9ded43ce13abe84934862d9d43a38f38183bf017a2"
+  },
+  {
+    "id": "minor.pentacles.knight",
+    "name": "Рыцарь Пентаклей",
+    "image": "/cards/75.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-75.jpg",
+    "bytes": 171424,
+    "width": 594,
+    "height": 971,
+    "sha256": "5fbedbd09e3f8e36a4c8205f5a7e88b8ffafc1525f7bde1f78a9a5d17b0683de"
+  },
+  {
+    "id": "minor.pentacles.queen",
+    "name": "Королева Пентаклей",
+    "image": "/cards/76.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-76.jpg",
+    "bytes": 166877,
+    "width": 594,
+    "height": 971,
+    "sha256": "4bae038551345f7855d117c8ed9f4cc4fa12effa72ba6342b4301b8f866fedb5"
+  },
+  {
+    "id": "minor.pentacles.king",
+    "name": "Король Пентаклей",
+    "image": "/cards/77.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-77.jpg",
+    "bytes": 180690,
+    "width": 594,
+    "height": 971,
+    "sha256": "73fdbdb46afeaa141ca63f544400e5a15f2d7781eaad2a088c02432dc081b793"
+  },
+  {
+    "id": "back",
+    "image": "/cards/78.jpg",
+    "source": "https://www.rozamira-tarot.ru/google/taro/zodiac-tarot-cecilia-lattari/x1701782587-78.jpg",
+    "bytes": 17691,
+    "width": 420,
+    "height": 700,
+    "sha256": "023f0b6fc82fc23d338defc131a317b1691fbc6ddcb8ee3ed7f90b77cd61acc6"
+  }
+]
